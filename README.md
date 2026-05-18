@@ -9,6 +9,8 @@
 [![Server](https://img.shields.io/badge/Server-Open_Source-brightgreen.svg)](https://github.com/HumanGenome/BeaconServer)
 [![Launcher](https://img.shields.io/badge/Launcher-Closed_Source-lightgrey.svg)](#license)
 
+[中文](README.zh.md)
+
 Real dedicated multiplayer for **Subnautica 2**. Your own IP-and-port server, friends join by address, your save lives on the server, run mods if you want. No friend-code lobby, no peer-to-peer, no four-player ceiling.
 
 _Beacon is a community project and is not affiliated with or endorsed by the developers of Subnautica 2._
